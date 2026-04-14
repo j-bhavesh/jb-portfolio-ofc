@@ -34,7 +34,7 @@ yarn-error.log*
 .env*
 
 # sensitive email config
-/lib/mailer.js
+#/lib/mailer.js
 
 # vercel
 .vercel
